@@ -8,4 +8,8 @@ to test the if not add to staged index and commit if not the changed thing will 
 I add a info and this info has't be add to staged index. now I commit a version
 create a new line in branch dev;
 delete and creat a new dev;
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+creating a new branch is quich and simple;
+>>>>>>> feature1
