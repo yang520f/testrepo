@@ -9,3 +9,4 @@ I add a info and this info has't be add to staged index. now I commit a version
 create a new line in branch dev;
 delete and creat a new dev;
 creating a new branch is quich and simple;
+creating a new branch is quich AND simple;
